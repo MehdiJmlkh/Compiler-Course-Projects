@@ -2,7 +2,6 @@
 
 This project is a comprehensive compiler for the FunctionCraft programming language, developed as part of the Compiler and Programming Languages Design course at the University of Tehran.
 
-<hr>
 
 ## Project Phases
 
